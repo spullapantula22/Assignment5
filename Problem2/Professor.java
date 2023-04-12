@@ -1,4 +1,3 @@
-package University;
 
 public class Professor extends DeptEmployee {
 	
