@@ -1,5 +1,3 @@
-package Problem4;
-
 public class BasePlusCommissionEmployee extends CommissionEmployee {
 	
 	private double baseSalary;
