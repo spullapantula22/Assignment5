@@ -1,5 +1,3 @@
-package Problem4;
-
 public class HourlyEmployee extends Employee{
 	
 	private double wage;
