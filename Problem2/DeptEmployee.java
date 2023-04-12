@@ -1,5 +1,3 @@
-package University;
-
 import java.time.LocalDate;
 
 public class DeptEmployee {
