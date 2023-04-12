@@ -1,5 +1,3 @@
-package Problem4;
-
 public class CommissionEmployee extends Employee {
 	
 	private double grossSales;
