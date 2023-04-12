@@ -1,5 +1,3 @@
-package Problem5;
-
 import java.util.Objects;
 
 public class Computer {
