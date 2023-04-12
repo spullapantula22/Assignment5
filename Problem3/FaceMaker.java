@@ -1,4 +1,3 @@
-package Problem3;
 
 public class FaceMaker implements Figure{
 
