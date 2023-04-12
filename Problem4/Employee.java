@@ -1,5 +1,3 @@
-package Problem4;
-
 public abstract class Employee {
 
 	abstract double getPayment();
