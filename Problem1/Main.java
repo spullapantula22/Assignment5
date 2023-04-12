@@ -4,8 +4,8 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Shape[] shapes = {new Circle(5),
-						new Rectangle(5,5),
-						new Square(4,4,"Green")};
+				  new Rectangle(5,5),
+				  new Square(4,4,"Green")};
 		
 		printTotal(shapes);
 		
